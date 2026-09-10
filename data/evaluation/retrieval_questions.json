@@ -1,0 +1,8 @@
+[
+  {"question":"How often must corporate passwords be changed?","expected_source":"it_security_policy.txt"},
+  {"question":"How quickly should phishing be reported?","expected_source":"it_security_policy.txt"},
+  {"question":"Who approves a purchase of INR 100000?","expected_source":"procurement_policy.txt"},
+  {"question":"What is the annual professional learning allowance?","expected_source":"benefits_guide.txt"},
+  {"question":"How many weeks of paid parental leave are provided?","expected_source":"employee_handbook.txt"},
+  {"question":"How many days of annual paid leave do employees receive?","expected_source":"employee_handbook.txt"}
+]
