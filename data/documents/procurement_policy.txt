@@ -1,0 +1,7 @@
+NORTHSTAR TECHNOLOGIES — PROCUREMENT POLICY
+Synthetic demonstration document — Version 2.7
+
+Standard purchases: Business purchases should use an approved supplier. Requests must include business justification and cost center.
+Approval thresholds: Purchases up to INR 25,000 require manager approval. Purchases above INR 25,000 and up to INR 250,000 require department-head approval. Purchases above INR 250,000 require department-head approval plus Procurement review.
+Software purchases: New software subscriptions require security and data-handling review before purchase. Software accessing confidential information requires Security review.
+Vendor onboarding: New vendors must complete the vendor onboarding questionnaire before a purchase order is issued.
