@@ -1,0 +1,9 @@
+NORTHSTAR TECHNOLOGIES — IT SECURITY POLICY
+Synthetic demonstration document — Version 5.1
+
+Password policy: Corporate passwords must be at least 14 characters and must be changed every 90 days. Password reuse across corporate systems is prohibited.
+MFA: Multi-factor authentication is required for corporate email, source control, VPN access, and administrative applications.
+Phishing: Employees who suspect phishing must report the message to Security Operations within 30 minutes. Employees must not open unexpected attachments or enter credentials into suspicious pages.
+Incident reporting: Suspected security incidents must be reported immediately. Preserve relevant evidence and do not attempt unauthorized remediation.
+Device security: Company laptops must use full-disk encryption, automatic screen locking, and supported endpoint protection. Lost or stolen devices must be reported within one hour.
+Access reviews: Managers must review privileged access every quarter.
